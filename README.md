@@ -1,1 +1,1 @@
-# semester7-webtech1
+# semester7-webtech-assignment1
